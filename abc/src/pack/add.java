@@ -22,7 +22,7 @@ public class add {
 		
 		add obj=new add(9,2);
 		System.out.println(obj.addition(2,2));
-		
+		System.out.println(obj.addition(3,2));
 		
 
 	}
