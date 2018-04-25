@@ -7,7 +7,7 @@ public class Main {
 		int a=6;
 		int b=7;
 		if(a==b)
-			System.out.print("equal");
+			System.out.print("equaldd");
 		else
 			System.out.print("not equal");
 	}
